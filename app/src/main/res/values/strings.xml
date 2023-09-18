@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="bycheck">By checking the box you agree to our</string>
+    <string name="term">Terms </string>
+    <string name="and">and</string>
+    <string name="condition"> Conditions. </string>
+    <string name="have">Already Have an Account? </string>
+    <string name="login">Log in</string>
+    <string name="baru"> New member?</string>
+    <string name="forgot">Forgot password ?</string>
+    <string name="remember">Remember me</string>
+
+</resources>
